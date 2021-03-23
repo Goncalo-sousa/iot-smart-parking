@@ -1,1 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T19:22:24.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.5.1" etag="w98ysTrFuVEbhvmItszX" type="github"><diagram id="bcEuura9vPlBAf4yVHCm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-23T19:56:39.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="SznbWAcaKSdSugGPKAal" version="14.5.1" type="github">
+  <diagram id="bcEuura9vPlBAf4yVHCm" name="Page-1">
+    <mxGraphModel dx="1038" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_awcJjH0IH8lhb_RVcB9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_awcJjH0IH8lhb_RVcB9-11" target="_awcJjH0IH8lhb_RVcB9-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="205" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_awcJjH0IH8lhb_RVcB9-7" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.internet_hollow" vertex="1" parent="1">
+          <mxGeometry x="570" y="380" width="50" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="_awcJjH0IH8lhb_RVcB9-10" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_awcJjH0IH8lhb_RVcB9-11" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.router;" vertex="1" parent="1">
+          <mxGeometry x="500" y="180" width="55" height="56" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
