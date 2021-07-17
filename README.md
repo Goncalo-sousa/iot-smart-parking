@@ -1,5 +1,5 @@
 # iot-smart-parking
 
 
-##Dependencies
+## Dependencies
 - OpenALPR
