@@ -6,3 +6,4 @@ This project presents a smart parking with plate recognition, and availability i
 
 ## Dependencies
 - OpenALPR
+- Arduino
